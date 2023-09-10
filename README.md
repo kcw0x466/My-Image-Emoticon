@@ -21,3 +21,5 @@
   * PySide2
   * win32clipboard
   * Pillow
+## 기타 사항
+ * win32clipboard 라이브러리를 사용했으므로 윈도우에서만 사용 가능
